@@ -1,0 +1,31 @@
+{
+  "name": "painbox-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypercubist/painbox-clone.git"
+  },
+  "author": "hypercubist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypercubist/painbox-clone/issues"
+  },
+  "homepage": "https://github.com/hypercubist/painbox-clone#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/register": "^7.15.3",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.43.3"
+  }
+}
